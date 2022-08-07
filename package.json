@@ -1,0 +1,14 @@
+{
+  "name": "valitee-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-combine-routers": "^4.0.2",
+    "koa-router": "^12.0.0",
+    "socket.io": "^4.5.1"
+  }
+}
